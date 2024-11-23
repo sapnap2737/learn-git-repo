@@ -1,1 +1,2 @@
-hey this ismy first commit 
+hey this is my first commit 
+nd i will successfull implemented
